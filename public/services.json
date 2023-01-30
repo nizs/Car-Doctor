@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Electrical system",
+        "img": "https://i.ibb.co/wpV63hF/1.jpg",
+        "price": "$20",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    },
+    {
+        "id": 2,
+        "title": "Engine Diagnostics",
+        "img": "https://i.ibb.co/h73y2LC/2.jpg",
+        "price": "$30",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    },
+    {
+        "id": 3,
+        "title": "Auto Car Repair",
+        "img": "https://i.ibb.co/FVRBCsv/3.jpg",
+        "price": "$20",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    },
+    {
+        "id": 4,
+        "title": "Electrical system",
+        "img": "https://i.ibb.co/fS5j7sj/4.jpg",
+        "price": "$20",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    },
+    {
+        "id": 5,
+        "title": "Engine diagnostics system",
+        "img": "https://i.ibb.co/wc1QTxf/5.jpg",
+        "price": "$20",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    },
+    {
+        "id": 6,
+        "title": "Auto Car Repair",
+        "img": "https://i.ibb.co/1bLfBC8/6.jpg",
+        "price": "$20",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur quibusdam eum necessitatibus dolores a porro magni similique exercitationem odio repellendus."
+    }
+]
